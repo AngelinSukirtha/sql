@@ -20,3 +20,4 @@ insert into employee values(10,'Poorna','Kamali','Vnr');
 update employee set FirstName = 'Angel' where City='Vnr';
 delete from employee where city='Apk';
 select * from employee;
+
